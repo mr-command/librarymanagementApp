@@ -11,13 +11,13 @@ A desktop-based Library Management System built with Python and Tkinter. The app
 - Data persistence using SQLite
 
 ## Screenshots
-# add screen
+### add screen
 ![add Window](assets/screenshots/addPanel.jpeg)
-# delete screen
+### delete screen
 ![delete Window](assets/screenshots/deletePanel.jpeg)
-# chart screen
+### chart screen
 ![chart Window](assets/screenshots/chartPanel.jpeg)
-# search screen
+### search screen
 ![search Window](assets/screenshots/searchPanel.jpeg)
 
 ## Tech Stack
